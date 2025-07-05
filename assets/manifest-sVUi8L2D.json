@@ -2,18 +2,18 @@
   "name": "Okiyome Timer",
   "short_name": "Okiyome Timer",
   "description": "A progressive web app.",
-  "start_url": "./",
+  "start_url": "https://boonyaik.github.io/OkiyomeTimer/",
   "display": "standalone",
   "background_color": "#111827",
   "theme_color": "#4f46e5",
   "icons": [
     {
-      "src": "./vite.svg",
+      "src": "https://boonyaik.github.io/OkiyomeTimer/image/timer192.png",
       "sizes": "192x192",
       "type": "image/svg+xml"
     },
     {
-      "src": "./vite.svg",
+      "src": "https://boonyaik.github.io/OkiyomeTimer/image/timer512.png",
       "sizes": "512x512",
       "type": "image/svg+xml"
     }
